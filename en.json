@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "dashboard": "Dashboard",
+    "contact": "Contact",
+    "startRecording": "Start Recording"
+  },
+  "hero": {
+    "title": "Voice Biomarker Disease Tracking",
+    "subtitle": "Harness AI-powered voice analysis to detect health anomalies early",
+    "cta": "Start Recording"
+  },
+  "recorder": {
+    "ready": "Ready to record",
+    "recording": "Recording...",
+    "stop": "Stop Recording",
+    "analyze": "Analyze Voice"
+  },
+  "results": {
+    "title": "Analysis Results",
+    "score": "Health Score",
+    "risk": "Risk Level",
+    "recommendations": "Recommendations",
+    "consult": "Consult a healthcare professional"
+  },
+  "dashboard": {
+    "title": "Your Dashboard",
+    "recentRecordings": "Recent Recordings",
+    "trends": "Health Trends",
+    "dateFormat": "DD/MM/YYYY"
+  },
+  "features": {
+    "title": "Key Features",
+    "feature1": "Real-time Voice Analysis",
+    "feature1Desc": "Advanced AI algorithms analyze your voice patterns instantly",
+    "feature2": "Health Score Tracking",
+    "feature2Desc": "Track your health trends over time with detailed metrics",
+    "feature3": "Secure & Private",
+    "feature3Desc": "Your health data is encrypted and stored securely"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": "Record Your Voice",
+    "step1Desc": "Simply record a voice sample using our app",
+    "step2": "AI Analysis",
+    "step2Desc": "Our AI model analyzes biomarkers in your voice",
+    "step3": "Get Insights",
+    "step3Desc": "Receive detailed health insights and recommendations"
+  },
+  "footer": {
+    "copyright": "© 2025 VoiceHealth. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
